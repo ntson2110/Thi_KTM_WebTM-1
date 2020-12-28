@@ -29,6 +29,8 @@ Giao diện trang chủ đề
 
 Khi muốn thực hiện các tác vụ như thêm, sửa hoặc xóa, ta bấm chọn vào bất kỳ đối tượng nào của bảng
 
+![Image](./img/6.png)
+
 Tại đây ta có thể thực hiện tùy ý, nếu ta muốn thêm mới dữ liệu trong bảng chọn Mới
 
 ![Image](./img/8.png)
@@ -42,5 +44,14 @@ Dữ liệu mới được thêm vào thành công
 Mối quan hệ giữa các bảng trong cơ sở dữ liệu
 
 ![Image](./img/7.png)
+
+Nội dung các bảng trong cơ sở dữ liệu
+
+![Image](./img/10.png)
+
+![Image](./img/11.png)
+
+![Image](./img/12.png)
+
 
 
